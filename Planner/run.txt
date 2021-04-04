@@ -1,0 +1,1 @@
+call jsonHTTPRequest.bat "https://tollguru-toll-rest1.p.rapidapi.com/route" -method POST -header headers.txt -reportfile result.txt

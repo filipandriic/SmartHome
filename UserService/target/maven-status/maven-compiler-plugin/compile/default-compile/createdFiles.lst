@@ -1,0 +1,7 @@
+AuthFilter\Filter.class
+entiteti\Users.class
+entiteti\Alarm.class
+entiteti\Songs.class
+com\mycompany\userservice\resources\JavaEE8Resource.class
+com\mycompany\userservice\JAXRSConfiguration.class
+entiteti\Tasks.class
